@@ -1,0 +1,7 @@
+cd C:\Users\arkag\OneDrive\Desktop\Kafka_Assignment
+
+python_sample.py
+
+python sample_producer.py
+
+python sample_consumer.py
